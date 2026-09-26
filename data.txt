@@ -1,0 +1,14 @@
+STUDENT:samrat
+MARK:Maths:81.0
+MARK:Physics:91.0
+MARK:Chemistry:98.0
+MARK:English:78.0
+MARK:Programming:50.0
+STUDENT:sharad
+MARK:Maths:98.0
+MARK:Physics:98.0
+MARK:Chemistry:97.0
+MARK:English:94.0
+MARK:Programming:1.0
+STUDENT:jay
+STUDENT:parth
